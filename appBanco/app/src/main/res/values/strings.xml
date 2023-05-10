@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Banco</string>
+    <string name="ol">Olá,</string>
+    <string name="saldo">Saldo</string>
+</resources>
